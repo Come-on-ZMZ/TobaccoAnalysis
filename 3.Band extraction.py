@@ -1,4 +1,4 @@
-#3.根据波段位置，提取反射率数据
+#3.Extraction of reflectance data based on band position
 import pandas as pd
 
 pd.set_option('display.max_rows', 100)
