@@ -1,4 +1,4 @@
-#5.数据按照S、R、N递增顺序排列
+#5.The data are arranged in increasing order of S, R, N
 import pandas as pd
 
 # 读取数据
