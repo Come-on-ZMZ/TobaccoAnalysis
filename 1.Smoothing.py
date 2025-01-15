@@ -1,4 +1,4 @@
-# 1.数据预处理：平滑和求一阶导
+# 1.Data preprocessing: smoothing and taking first-order derivatives
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
