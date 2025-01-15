@@ -1,4 +1,4 @@
-#4.构建SFI特征
+#4.Constructing the SFI features
 import pandas as pd
 import numpy as np
 from scipy.integrate import trapezoid
