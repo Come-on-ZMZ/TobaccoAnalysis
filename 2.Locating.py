@@ -1,4 +1,4 @@
-# 2.根据光谱一阶导数据，确定特殊点位所在波段位置
+# 2.Determine the position of the band in which the special point is located based on the spectral first-order derivative data
 import pandas as pd
 
 pd.set_option('display.max_rows', 1000)
